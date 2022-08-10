@@ -16,7 +16,9 @@ public:
         {
             if(temp->val == temp->next->val)
             {
+                ListNode* ToDelete = temp->next;
                 temp->next = temp->next->next;
+                delete(ToDelete);
             }
             else
                 temp=temp->next;            
