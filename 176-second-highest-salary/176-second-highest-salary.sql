@@ -1,5 +1,3 @@
-SELECT IFNULL(
-(SELECT distinct Salary
-FROM Employee
-ORDER BY Salary desc limit 1,1)
-, null) as SecondHighestSalary ;
+SELECT MAX(salary) As SecondHighestSalary  
+from Employee 
+where salary < (select max(salary) from Employee)
