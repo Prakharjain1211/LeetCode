@@ -19,13 +19,14 @@ public:
             st.pop();
         }
         cout<<ans;
-        // string ret = reverse(ans.begin(),ans.end());
-        int sz = ans.size();
-        for(int i=0;i<sz/2;i++){
-            char temp = ans[sz-i-1];
-            ans[sz-i-1] = ans[i];
-            ans[i]  = temp;
-        }
+        reverse(ans.begin(),ans.end());
+        // reverse(ans.begin(), ans.end());
+        // int sz = ans.size();
+        // for(int i=0;i<sz/2;i++){
+        //     char temp = ans[sz-i-1];
+        //     ans[sz-i-1] = ans[i];
+        //     ans[i]  = temp;
+        // }
         return ans;
     }
 };
