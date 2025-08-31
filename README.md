@@ -16,9 +16,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Prakharjain1211/LeetCode/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/Prakharjain1211/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Prakharjain1211/LeetCode/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/Prakharjain1211/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+## Array
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Prakharjain1211/LeetCode/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
