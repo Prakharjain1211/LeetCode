@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Prakharjain1211/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0086-partition-list](https://github.com/Prakharjain1211/LeetCode/tree/master/0086-partition-list) |
+| [0141-linked-list-cycle](https://github.com/Prakharjain1211/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Prakharjain1211/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/Prakharjain1211/LeetCode/tree/master/0086-partition-list) |
+| [0141-linked-list-cycle](https://github.com/Prakharjain1211/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Prakharjain1211/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0874-backspace-string-compare](https://github.com/Prakharjain1211/LeetCode/tree/master/0874-backspace-string-compare) |
 ## String
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Prakharjain1211/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Prakharjain1211/LeetCode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
