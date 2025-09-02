@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Prakharjain1211/LeetCode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Prakharjain1211/LeetCode/tree/master/0071-simplify-path) |
 | [0874-backspace-string-compare](https://github.com/Prakharjain1211/LeetCode/tree/master/0874-backspace-string-compare) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Prakharjain1211/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1720-crawler-log-folder](https://github.com/Prakharjain1211/LeetCode/tree/master/1720-crawler-log-folder) |
 | [2470-removing-stars-from-a-string](https://github.com/Prakharjain1211/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/Prakharjain1211/LeetCode/tree/master/3447-clear-digits) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Prakharjain1211/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Prakharjain1211/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Prakharjain1211/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
 |  |
 | ------- |
