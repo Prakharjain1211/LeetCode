@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Prakharjain1211/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Prakharjain1211/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Prakharjain1211/LeetCode/tree/master/0735-asteroid-collision) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Prakharjain1211/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Prakharjain1211/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Prakharjain1211/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
