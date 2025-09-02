@@ -11,8 +11,9 @@ public:
                 ptr++;
             }
         }
-        if(ptr == s.length())
-        return true;
+           if(ptr == s.length())
+            return true;
+        
         return false;
     }
 };
