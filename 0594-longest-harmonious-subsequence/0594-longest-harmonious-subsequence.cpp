@@ -1,0 +1,25 @@
+class Solution {
+public:
+    int findLHS(vector<int>& nums) {
+       sort(nums.begin(), nums.end());
+
+        int left=0;int right=0;
+        int result = 0;
+        while(right< nums.size())
+        {
+            int diff = nums[right] - nums[left];
+            if(diff == 1)
+            {
+                result = max(result, right-left+1);
+            }
+            if (diff <=1)
+            {
+                right++;
+            }
+            else{
+                left++;
+            }
+        }
+        return result;
+    }
+};
