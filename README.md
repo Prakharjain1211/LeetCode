@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Prakharjain1211/LeetCode/tree/master/0071-simplify-path) |
 | [0392-is-subsequence](https://github.com/Prakharjain1211/LeetCode/tree/master/0392-is-subsequence) |
 | [0874-backspace-string-compare](https://github.com/Prakharjain1211/LeetCode/tree/master/0874-backspace-string-compare) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/Prakharjain1211/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Prakharjain1211/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1720-crawler-log-folder](https://github.com/Prakharjain1211/LeetCode/tree/master/1720-crawler-log-folder) |
 | [2470-removing-stars-from-a-string](https://github.com/Prakharjain1211/LeetCode/tree/master/2470-removing-stars-from-a-string) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Prakharjain1211/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Prakharjain1211/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Prakharjain1211/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/Prakharjain1211/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Prakharjain1211/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Prakharjain1211/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Prakharjain1211/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+## Math
+|  |
+| ------- |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/Prakharjain1211/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 <!---LeetCode Topics End-->
