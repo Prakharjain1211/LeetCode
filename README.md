@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Prakharjain1211/LeetCode/tree/master/0735-asteroid-collision) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Prakharjain1211/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1720-crawler-log-folder](https://github.com/Prakharjain1211/LeetCode/tree/master/1720-crawler-log-folder) |
+| [1755-defuse-the-bomb](https://github.com/Prakharjain1211/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Prakharjain1211/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Recursion
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Prakharjain1211/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Prakharjain1211/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Prakharjain1211/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1755-defuse-the-bomb](https://github.com/Prakharjain1211/LeetCode/tree/master/1755-defuse-the-bomb) |
 ## Prefix Sum
 |  |
 | ------- |
